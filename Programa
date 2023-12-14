@@ -1,3 +1,5 @@
 git init
 git add .
 git commit -m "Pirmas commit"
+git remote add origin <https://github.com/NojusBalandis/Programa>
+git push -u origin master
